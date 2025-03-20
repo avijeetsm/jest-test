@@ -9,7 +9,7 @@ test("test My Matrix", () => {
   expect(c.cols).toBe(b.cols);
 });
 
-it("test My Matrix", () => {
+it("test it My Matrix", () => {
   let c = a.multiplyBy(b);
   expect(c.rows).toBe(a.rows);
   expect(c.cols).toBe(b.cols);
