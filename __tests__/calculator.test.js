@@ -2,7 +2,7 @@
  * Tests for calculator.js
  */
 
-const calculator = require('./calculator');
+const calculator = require('../calculator');
 
 describe('Calculator module', () => {
   describe('add function', () => {
