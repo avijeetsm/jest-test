@@ -1,3 +1,4 @@
+// comment
 module.exports.MyMatrix = class MyMatrix {
   get rows() {
     return this.matrix.length;
